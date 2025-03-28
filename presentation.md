@@ -181,7 +181,7 @@ Outro bug que encontrámos foi na IA do Oscar, em que ele perseguia o jogador at
 
 ## DDJD (Final Project)
 
-### Versão final (trailer)
+### Trailer
 
 <video width="720" height="480" src="media/videos/DDJD-FP-D-video.mp4" type="video/mp4" controls></video>
 
@@ -194,8 +194,9 @@ E com isto, passo-vos o trailer do resultado final, “Echoes of Oscar”.
 
 ### Porquê esperar? Junta-te ao NCGM!
 
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-    <img src="media/images/NCGM.png" alt="NCGM" style="width: 75%;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 4em;">
+    <img src="media/images/ncgm-logo-dark.png" alt="NCGM" style="width: 30%;">
+    <img src="media/images/Game_Dev_Meet.jpeg" alt="NCGM" style="width: 45%;">
 </div>
 
 Note:
@@ -254,6 +255,12 @@ Estamos quase a chegar ao fim, estando aberto às vossas dúvidas. Questões?
 ## Referências
 
 <a id="1">[1]</a> Vídeo background: Alasabyss (2024) Download Trendy Gaming Technology background with glowing green and blue neon light beams. stylish futuristic tech animation with copy space. full HD and looping motion background. for Free, Vecteezy. Available at: https://www.vecteezy.com/video/49102477-trendy-gaming-technology-background-with-glowing-green-and-blue-neon-light-beams-stylish-futuristic-tech-animation-with-copy-space-full-hd-and-looping-motion-background (Accessed: 24 March 2025).
+
+[comment]: # (!!! data-auto-animate data-background-video="media/videos/background-video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+
+## Agradecimentos
+
+- NCGM, pelos direitos de utilização de imagem.
 
 Note: Aqui estão as referências do vídeo de background
 
